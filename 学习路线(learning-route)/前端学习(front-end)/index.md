@@ -1,0 +1,62 @@
+# 前端学习(front-end)
+## HTML
+HTML是超文本标记语言的缩写。它在前端使用，为网页提供结构，你可以使用CSS进行设计，并使用JavaScript进行互动。
+- 基础知识
+  - [MDN文档](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+  - [W3C文档](https://www.w3schools.com/html/default.asp)
+  - [菜鸟文档](https://www.runoob.com/html/html-tutorial.html)
+- 语义化HTML语法
+- 表单及验证
+  - [MDN文档-表单校验](https://developer.mozilla.org/zh-CN/docs/Learn/Forms/Form_validation)
+  - [W3C文档-JavaScriptForms](https://www.w3schools.com/js/js_validation.asp)
+## CSS
+CSS
+层叠样式表 — 也就是CSS — 是在HTML之后应该学习的第二门技术。HTML 用于定义内容的结构和语义，CSS 用于设计风格和布局。您可以使用 CSS 来更改内容的字体、颜色、大小、间距，将内容分为多列，或者添加动画及其他的装饰效果。
+- 基础知识
+- 布局
+  - Flex
+  - Grid
+  - flexbox
+  - position
+- 选择器
+  - 类选择器
+  - 元素选择器
+  - id选择器
+  - ...
+- 盒模型
+  - border
+  - margin
+  - padding
+  - ...
+- 响应式设计
+  - 媒体查询
+  - 百分比
+  - 最大最小宽高
+  - ...
+- [MDN文档-CSS](https://developer.mozilla.org/zh-CN/docs/Learn/CSS)
+- [W3C文档-CSS](https://www.w3schools.com/css/)
+- [菜鸟文档-CSS](https://www.runoob.com/css/css-tutorial.html)
+## JavaScript
+JavaScript允许你在你的网页上添加互动性。你可能在网站上看到的常见例子是滑块、点击互动、弹出窗口等等。
+- 入门
+  - JavaScript基本结构
+  - 常量/变量
+  - 循环
+  - 事件
+  - 函数
+  - DOM操作
+  - ES6+
+  - 异步Promise
+  - 同源和跨域
+- 进阶
+  - 模块化
+  - 框架设计
+- 理解概念
+  - 作用域
+  - this
+  - 闭包
+  - 原型链
+  - 递归
+- [W3C文档-JS](https://www.w3schools.com/js/)
+- [MDN文档-JS](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript)
+- [菜鸟文档-JS](https://www.runoob.com/js/js-tutorial.html)
