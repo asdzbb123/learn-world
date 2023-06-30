@@ -1,7 +1,9 @@
 # learn-world
 
 ## Chinese
-这里是一个学习的天地，这里有各种各样的IT学习路线、学习资料、学习笔记。
+
+这里是一个学习的天地，这里有各种各样的 IT 学习路线、学习资料、学习笔记。
+
 - 学习路线
   - 前端学习路线(更新)
 - 面试题
@@ -19,4 +21,21 @@
     - 小程序(更新中)
 
 ## Engilsh
+
 Here is a world of learning, here are a variety of IT learning routes, learning materials, learning notes.
+
+- Learning Routes
+  - Front-end learning route (updated)
+- Interview Questions
+  - Front-end Interview Questions(Updated)
+    - HTML(Finished)
+    - CSS(Waiting)
+    - JavaScript(Waiting)
+    - Vue(Waiting)
+    - React(Waiting)
+    - Performance Optimization(Waiting)
+    - Front-end Engineering(Waiting)
+    - Computer Networks(Waiting)
+    - Browser Principles(Waiting)
+    - TypeScript(Waiting)
+    - Applets(update)
