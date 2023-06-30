@@ -14,7 +14,10 @@ href 是 Hypertext Reference 的缩写，指向网络资源所在位置，建立
 <link href=”common.css” rel=”stylesheet”/>
 ```
 那么浏览器会识别该文档为 css 文件，就会并行下载资源并且不会停止对当前文档的处理。 这也是为什么建议使用 link 方式来加载 css，而不是使用@import 方式。
-
+## HTML 、XML 和 XHTML 的区别？
+- HTML（HyperText Markup Language）是超文本标记语言，主要是用于规定怎么显示网页。
+- XML（Extensible Markup Language）是可扩展标记语言是未来网页语言的发展方向，XML 和 HTML 的最大区别就在于 XML 的标签是可以自己创建的，数量无限多，而 HTML 的标签都是固定的而且数量有限。
+- XHTML（Extensible Hypertext Markup Language）也是现在基本上所有网页都在用的标记语言，他其实和 HTML 没什么本质的区别，标签都一样，用法也都一样，就是比 HTML 更严格，比如标签必须都用小写，标签都必须有闭合标签等。
 ## 对HTML语义化的理解
 语义化是指根据内容的结构化（内容语义化），选择合适的标签（代码语义化）。通俗来讲就是用正确的标签做正确的事情。
 
@@ -367,3 +370,6 @@ Canvas是画布，通过Javascript来绘制2D图形，是逐像素进行渲染�
 - dragleave：事件主体是目标元素，在被拖放元素移出目标元素是触发。 
 - drop：事件主体是目标元素，在目标元素完全接受被拖放元素时触发。 
 - dragend：事件主体是被拖放元素，在整个拖放操作结束时触发。
+## 什么是 URL 编码 (URL Encode)
+- encodeURI ⽤来编码URI，其不会编码保留字符。
+- encodeURIComponent ⽤来编码 URI参数，除了字符：A-Z a-z 0-9 - _ . ! ~ * ' ( )，都将会转义
